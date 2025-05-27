@@ -80,13 +80,16 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-[Your Name]
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Portfolio: [your-portfolio-url]
+B. Shiva Shankar
+- GitHub:https://github.com/Shiva-shankarr
+- Portfolio: https://my-portfolio-nine-omega-91.vercel.app/
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](issues-link).
+Contributions, issues, and feature requests are welcome!  
+Feel free to check the [issues page](https://github.com/Shiva-shankarr/3d-portfolio/issues) to report bugs or suggest improvements.  
+If you wish to contribute, please fork the repository and submit a pull request.
+
 
 ## ⭐️ Show your support
 
