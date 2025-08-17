@@ -17,7 +17,7 @@ export const Bio = {
     "I am a motivated and results-driven individual with a strong foundation in software development. Passionate about continuous learning, I excel in dynamic environments, taking on challenges with a growth mindset. Committed to delivering high-quality results and contributing effectively to team success.",
   github: "https://github.com/Shiva-shankarr",
   resume:
-    "https://drive.google.com/file/d/1667VwDxkwu-nJmGntFVjANc8QRl6IIUx/view?usp=sharing",
+    "https://drive.google.com/file/d/1HOZkEHKJHaExdPUuvgMUYnMnEmbkHiM6/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/b-shiva-shankar-3b1b68290/",
   twitter: "https://twitter.com/shiv_____08",
   insta: "https://www.instagram.com/___shiv____08/",
